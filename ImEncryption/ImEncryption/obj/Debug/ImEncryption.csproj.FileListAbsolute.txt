@@ -1,0 +1,28 @@
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\obj\Debug\ImEncryption.Form1.resources
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\obj\Debug\ImEncryption.Properties.Resources.resources
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\obj\Debug\ImEncryption.csproj.GenerateResource.Cache
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\bin\Debug\ImEncryption.exe
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\bin\Debug\ImEncryption.pdb
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\obj\Debug\ImEncryption.exe
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\obj\Debug\ImEncryption.pdb
+C:\Users\马林海\Documents\Visual Studio 2008\Projects\ImEncryption\ImEncryption\obj\Debug\ImEncryption.haarLevelDialog.resources
+D:\课程\毕业设计\ImEncryption\ImEncryption\obj\Debug\ImEncryption.exe
+D:\课程\毕业设计\ImEncryption\ImEncryption\obj\Debug\ImEncryption.pdb
+D:\课程\毕业设计\ImEncryption\ImEncryption\bin\Debug\ImEncryption.exe
+D:\课程\毕业设计\ImEncryption\ImEncryption\bin\Debug\ImEncryption.pdb
+D:\课程\毕业设计\ImEncryption\ImEncryption\obj\Debug\ResolveAssemblyReference.cache
+D:\课程\毕业设计\ImEncryption\ImEncryption\obj\Debug\ImEncryption.Form1.resources
+D:\课程\毕业设计\ImEncryption\ImEncryption\obj\Debug\ImEncryption.haarLevelDialog.resources
+D:\课程\毕业设计\ImEncryption\ImEncryption\obj\Debug\ImEncryption.Properties.Resources.resources
+D:\课程\毕业设计\ImEncryption\ImEncryption\obj\Debug\ImEncryption.csproj.GenerateResource.Cache
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ImEncryption.exe
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ImEncryption.pdb
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\bin\Debug\ImEncryption.exe
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\bin\Debug\ImEncryption.pdb
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ImEncryption.Form1.resources
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ImEncryption.haarLevelDialog.resources
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ImEncryption.Properties.Resources.resources
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ImEncryption.csproj.GenerateResource.Cache
+C:\Users\马林海\Desktop\毕业设计20140518\ImEncryption\ImEncryption\obj\Debug\ImEncryption.HaarKey.resources
